@@ -1,0 +1,34 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "Auto da Compadecida",
+      "author": "Ariano Suassuna"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Macunaíma",
+      "author": "Mário de Andrade"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Dom Casmurro",
+      "author": "Machado de Assis"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Grande Sertão: Veredas",
+      "author": "João Guimarães Rosa"
+    }
+  }
+]
