@@ -19,16 +19,16 @@
     "model": "books.book",
     "pk": 3,
     "fields": {
-      "title": "Dom Casmurro",
-      "author": "Machado de Assis"
+        "title": "Dom Casmurro",
+        "author": "Machado de Assis"
     }
   },
   {
     "model": "books.book",
     "pk": 4,
     "fields": {
-      "title": "Grande Sertão: Veredas",
-      "author": "João Guimarães Rosa"
+        "title": "Grande Sertão: Veredas",
+        "author": "João Guimarães Rosa"
     }
   }
 ]
